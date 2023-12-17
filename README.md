@@ -82,7 +82,7 @@
 <h3>Challenges:</h3>
 <p>&nbsp;&nbsp; Working with the callbacks in Dash was a little different as although it’s made in JavaScript, you can’t grab the tags in Dash the same way through the DOM. You have to go through the children such as plotly etc… Also, callbacks are imminently called once the page is opened and I probably should’ve suppressed the initial nth click and be greater than 0 to keep from rendering on refreash.</p>
 <div style='text-align:left; color:red'> 
-<h3>Contact<h3>
-<p>Scotty Intondi</p>
-<p>email: intondiscott@snhu.edu</p>
+<h3>😊Contact<h3>
+<p>👱‍♂️Scotty Intondi</p>
+<p>📧 intondiscott@snhu.edu</p>
 <p>CS-340 Client/Server Development</p></div>
