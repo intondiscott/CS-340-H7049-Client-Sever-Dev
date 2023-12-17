@@ -15,7 +15,7 @@
 <h3>How to set up the database:</h3>
 <p>The following screenshots show uploading the *.csv file to the MongoDB cloud and making a user for said database:</p>
  
- ![Alt text](./ReadMe/image.png)
+ ![Alt text](../ReadMe/image.png)
  <hr>
 
  ![Alt text](image-1.png)
