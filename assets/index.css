@@ -1,0 +1,23 @@
+:root
+{
+    font-family: system-ui;
+}
+
+h1
+{
+   text-align:center;
+}
+.container
+{
+    display:flex;
+    justify-content:space-between;
+    margin:0;
+}
+
+#logo-img
+{
+    margin-left:45%;
+    margin-right:50%;
+    width:10%;
+    height:10%;
+}
