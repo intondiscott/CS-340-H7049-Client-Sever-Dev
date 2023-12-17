@@ -1,15 +1,15 @@
-<h1 style='text-align:center'>CS 340 README Project: Grazioso Salvare Search and Rescue Training.</h1>
+<h1 style='text-align:center'>🐕CS 340 README Project: Grazioso Salvare Search and Rescue Training.🐈</h1>
 
 <h3>About the project: Grazioso Salvare Search and Rescue Training.</h3>
 <p>&nbsp;&nbsp; Grazioso Salvare helps in identifying animals for international search-and-rescue training to aid in rescuing animals and people. The project finds good candidates by searching the Austin Animal Center (AAC) database for dogs that fit the client’s needs for where the dog will be searching. Upon searching for the dogs that match, the program will identify those, who are available.</p>
 <h3>Usage:</h3>
 <p>&nbsp;&nbsp;The project utilizes the C.R.U.D. application made in Python to read through the AAC database and creates a UI that gives the user ease of access to the data that is housed in AAC. The UI is comprised of a dashboard with a database table, two widgets that provide data on the filtered animals, and a dropdown to filter the types of animals to be used depending on conditions. </p>
-<h3>Tools:</h3>
+<h3>🧰Tools:</h3>
 <ul>
-    <li>Python – version (3.10+ due to match cases), --modules(Pymongo, Dash, JupyterDash, dash_leaflet, plotly.express, pandas)  --> This was used for the C.R.U.D. application</li>
-    <li>MongoDB --> Was used for the cloud server that housed the AAC database.</li>
-    <li>Jupyter Notebook --> Was used to create the UI of the application.</li>
-    <li>Access to database(user/admin)</li>
+    <li>🐍Python – version (3.10+ due to match cases), --modules(Pymongo, Dash, JupyterDash, dash_leaflet, plotly.express, pandas)  --> This was used for the C.R.U.D. application</li>
+    <li>🏬MongoDB --> Was used for the cloud server that housed the AAC database.</li>
+    <li>📓Jupyter Notebook --> Was used to create the UI of the application.</li>
+    <li>👨‍💼Access to database(user/admin)</li>
 </ul>
 
 <h3>How to set up the database:</h3>
