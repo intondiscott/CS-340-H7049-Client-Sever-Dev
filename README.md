@@ -84,5 +84,5 @@
 <div style='text-align:left; color:red'> 
 <h3>😊Contact<h3>
 <p>👱‍♂️Scotty Intondi</p>
-<p>📧 intondiscott@snhu.edu</p>
+<p>📧 scott.intondi@snhu.edu</p>
 <p>CS-340 Client/Server Development</p></div>
